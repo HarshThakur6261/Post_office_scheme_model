@@ -1,6 +1,0 @@
-Flask
-joblib
-numpy
-pandas
-python-dotenv
-pymongo
